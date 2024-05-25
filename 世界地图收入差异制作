@@ -1,3 +1,4 @@
+使用第三个网站的数据
 library(maps)
 library(countrycode)
 library(ggplot2)
