@@ -34,3 +34,4 @@ world %>% #map of salary level by country
         panel.grid = element_blank(),
         text = element_text(size = 20))+
   labs(title = "Average Salary of Data Analysts per Country")
+[Data Science Salaries 2023 💸](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
