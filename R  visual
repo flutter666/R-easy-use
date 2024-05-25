@@ -1,1 +1,11 @@
-R package which can help to make visual easily 
+ From CRAN
+```
+install.packages("esquisse")
+```
+remotes::install_github("dreamRs/esquisse")
+Load the package in R
+```
+library(esquisse)
+esquisser()
+```
+and we can click Addins`s 'ggplot2'builder to create plot without code  
