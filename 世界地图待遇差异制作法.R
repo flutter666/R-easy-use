@@ -1,0 +1,36 @@
+library(maps)
+library(countrycode)
+library(ggplot2)
+library(dplyr)
+library(lme4)
+library(lmerTest)
+library(maps)
+library(ggplot2)
+library(car)
+library(viridis)
+library(scales)
+model <- lmer(salary_in_usd ~ work_year+remote_ratio+employment_type*company_size+experience_level+(1|job_title) 
+              + (1|company_location)+(1|employee_residence), data = data)
+plot(model)
+ER<-ranef(model)$employee_residence
+ER$region<-rownames(ER)
+ER$region <- countrycode(ER$region, origin = "iso2c", destination = "country.name")
+print(ER)
+world <- map_data("world")
+unique(world$region)
+ER$region=="United States"
+ER$region[ER$region == "United States"] <- "USA"
+unique(ER$region)
+
+world %>% #map of salary level by country
+  merge(ER, by.y = "region", bx.x = "`(Intercept)`", all.x = T) %>%
+  arrange(group, order) %>%
+  ggplot(aes(x = long, y = lat, group = group, fill = `(Intercept)`))+ 
+  geom_polygon(color = "white", linewidth = 0.2) +
+  scale_fill_viridis("", na.value = "gray90", option = "C") +
+  theme_minimal() +
+  theme(axis.text = element_blank(),
+        axis.title = element_blank(),
+        panel.grid = element_blank(),
+        text = element_text(size = 20))+
+  labs(title = "Average Salary of Data Analysts per Country")
