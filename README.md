@@ -5,19 +5,19 @@
 2. [R语言—ggThemeAssist](http://www.360doc.com/content/19/0706/11/52645714_847037143.shtml)
 
 强力的图表制作包
-
 3. [modelsummary](https://modelsummary.com/)
 ### R语言与统计学
-3. [R语言基础](https://csu-r.github.io/Module1/the-r-community.html)
-4. [Data Science Salaries 2023 💸](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
-5. [R语言入门及进阶统计学习](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/slides.html)
-6. [R语言自然语言处理](https://s-ai-f.github.io/Natural-Language-Processing/)
-7. [R语言时间序列分析](https://s-ai-f.github.io/Time-Series/)
-8. [Rmarkdown权威指南](https://bookdown.org/yihui/rmarkdown/prettydoc.html)
-9. [R语言和数据科学](https://www.tidyverse.org/learn/)
-10. [R语言机械学习](https://bradleyboehmke.github.io/HOML/)
+4. [R语言基础](https://csu-r.github.io/Module1/the-r-community.html)
+5. [Data Science Salaries 2023 💸](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
+6. [R语言入门及进阶统计学习](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/slides.html)
+7. [R语言自然语言处理](https://s-ai-f.github.io/Natural-Language-Processing/)
+8. [R语言时间序列分析](https://s-ai-f.github.io/Time-Series/)
+9. [Rmarkdown权威指南](https://bookdown.org/yihui/rmarkdown/prettydoc.html)
+10. [R语言和数据科学](https://www.tidyverse.org/learn/)
+11. [R语言机械学习](https://bradleyboehmke.github.io/HOML/)
 
-
+### ggplot2网站
+12.[ggplot2 教程](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 
 ### 统计学和数据科学
 [环境以及品质的数据科学](https://data-science.tokyo/index.html)
