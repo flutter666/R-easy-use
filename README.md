@@ -6,6 +6,7 @@
 
 强力的图表制作包
 3. [modelsummary](https://modelsummary.com/)
+
 ### R语言与统计学
 4. [R语言基础](https://csu-r.github.io/Module1/the-r-community.html)
 5. [Data Science Salaries 2023 💸](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
@@ -22,4 +23,8 @@
 14.[ggplot2: Elegant Graphics for Data Analysis ](https://ggplot2-book.org/scales-other)
 
 ### 统计学和数据科学
-[环境以及品质的数据科学](https://data-science.tokyo/index.html)
+15.[环境以及品质的数据科学](https://data-science.tokyo/index.html)
+
+###cheat sheat
+16.[R cheat sheat](https://cheatography.com/non-human-entity/cheat-sheets/r-cheat-sheet/)
+17.[entry level of dplyr data frame guide](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/_episodes/13-dplyr/index.html)
