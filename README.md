@@ -27,17 +27,17 @@
 
 ### ggplot2网站
 
-12.[ggplot2 教程](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
-13.[R Graphics Cookbook](https://r-graphics.org/)
-14.[ggplot2: Elegant Graphics for Data Analysis ](https://ggplot2-book.org/scales-other)
-4.[ggplot2 gallery](https://r-graph-gallery.com/time-series.html)
+12. [ggplot2 教程](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+13. [R Graphics Cookbook](https://r-graphics.org/)
+14. [ggplot2: Elegant Graphics for Data Analysis ](https://ggplot2-book.org/scales-other)
+4. [ggplot2 gallery](https://r-graph-gallery.com/time-series.html)
 
 ### 统计学和数据科学
 
-15.[环境以及品质的数据科学](https://data-science.tokyo/index.html)
+15. [环境以及品质的数据科学](https://data-science.tokyo/index.html)
 
 ###cheat sheat
 
-16.[R cheat sheat](https://cheatography.com/non-human-entity/cheat-sheets/r-cheat-sheet/)
-17.[entry level of dplyr data frame guide](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/_episodes/13-dplyr/index.html)
+16. [R cheat sheat](https://cheatography.com/non-human-entity/cheat-sheets/r-cheat-sheet/)
+17. [entry level of dplyr data frame guide](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/_episodes/13-dplyr/index.html)
 
