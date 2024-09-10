@@ -31,7 +31,7 @@
 12. [ggplot2 教程](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 13. [R Graphics Cookbook](https://r-graphics.org/)
 14. [ggplot2: Elegant Graphics for Data Analysis ](https://ggplot2-book.org/scales-other)
-4. [ggplot2 gallery](https://r-graph-gallery.com/time-series.html)
+15. [ggplot2 gallery](https://r-graph-gallery.com/time-series.html)
 
 ### 统计学和数据科学
 
