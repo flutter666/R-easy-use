@@ -25,6 +25,7 @@
 9. [Rmarkdown权威指南](https://bookdown.org/yihui/rmarkdown/prettydoc.html)
 10. [R语言和数据科学](https://www.tidyverse.org/learn/)
 11. [R语言机械学习](https://bradleyboehmke.github.io/HOML/)
+12. [CAUSAL INFERENCE IN STATISTICS: A PRIMER](https://bayes.cs.ucla.edu/PRIMER/)
 
 ### ggplot2网站
 
@@ -40,5 +41,4 @@
 ###cheat sheat
 
 16. [R cheat sheat](https://cheatography.com/non-human-entity/cheat-sheets/r-cheat-sheet/)
-17. [entry level of dplyr data frame guide](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/_episodes/13-dplyr/index.html)
-
+17. [entry level of dplyr data frame guide](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/_episodes/13-dplyr/index.html)18. []
