@@ -1,8 +1,8 @@
 ## R语言备忘录
 
 ### R 
-0.[R大全](https://www.bigbookofr.com/)
-1.[R weekly](https://rweekly.org/)
+0. [R大全](https://www.bigbookofr.com/)
+1. [R weekly](https://rweekly.org/)
 
 ### 可视化包
 
