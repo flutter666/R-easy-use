@@ -1,7 +1,7 @@
 ## R语言备忘录
 
-### R community
-
+### R 
+0.[R大全](https://www.bigbookofr.com/)
 1.[R weekly](https://rweekly.org/)
 
 ### 可视化包
@@ -33,6 +33,7 @@
 13. [R Graphics Cookbook](https://r-graphics.org/)
 14. [ggplot2: Elegant Graphics for Data Analysis ](https://ggplot2-book.org/scales-other)
 15. [ggplot2 gallery](https://r-graph-gallery.com/time-series.html)
+
 
 ### 统计学和数据科学
 
